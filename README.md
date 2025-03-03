@@ -30,4 +30,4 @@ Feel free to explore and use these files to expand your understanding of ethical
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/vituwc/.......
+   git clone https://github.com/vituwc/blackhatpy
